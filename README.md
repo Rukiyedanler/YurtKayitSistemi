@@ -47,7 +47,8 @@ YurtKayitSistemi/
 ├── Database/
 ├── Reports/
 └── Assets/
-⚙️ Kurulum
+
+ Kurulum
 Bu projeyi klonlayın:
 git clone https://github.com/kullaniciadi/yurt-kayit-sistemi.git
 Visual Studio ile açın
